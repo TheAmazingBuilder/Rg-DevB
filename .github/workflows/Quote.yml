@@ -2,8 +2,8 @@ name: 💬 Dev-QuoteDay
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # Tous les jours à 8h du matin
-  workflow_dispatch:        # Déclenchement manuel possible
+    - cron: "0 8 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -13,7 +13,4 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Update Dev Quote in README
-        uses: shravan20/github-readme-quotes@latest
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          category: "programming"   # Options: programming, life, motivational
+        uses: shravan20/github-readme-quotes@v1.0.4
