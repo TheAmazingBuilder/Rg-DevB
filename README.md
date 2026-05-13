@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=70&lines=Rg-DevB+-+Crafting+Clean+%26+Modern+Code;Passionate+about+Laravel+%7C+Java+%7C+Python+%7C+Java+%7C;Tech+%7C++Code.+Build.+Innovate.+Vibes" /> 
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rody-g-bints)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenoow07pro.btsg@gmail.com)
 
