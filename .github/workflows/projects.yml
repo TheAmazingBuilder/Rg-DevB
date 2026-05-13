@@ -1,0 +1,41 @@
+name: Update Projects
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # chaque jour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Get repositories
+        run: |
+          curl -s https://api.github.com/users/Rg-DevB/repos?sort=updated > repos.json
+
+      - name: Generate project list
+        run: |
+          echo "## 🚀 My Projects" > projects.md
+          echo "" >> projects.md
+
+          cat repos.json | jq -r '.[] | "- 🔗 [\(.name)](\(.html_url)) : \(.description // "Pas de description")"' >> projects.md
+
+      - name: Inject into README
+        run: |
+          awk '/<!--START_SECTION:projects-->/ {print; system("cat projects.md"); skip=1; next} 
+               /<!--END_SECTION:projects-->/ {skip=0} 
+               !skip' README.md > README.tmp
+
+          mv README.tmp README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git commit -m "update projects list"
+          git push
