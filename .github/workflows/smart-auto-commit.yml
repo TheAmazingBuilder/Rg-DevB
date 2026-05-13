@@ -1,0 +1,40 @@
+name: Smart Auto Commit
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"  # toutes les 2h
+  workflow_dispatch:
+
+jobs:
+  smart-commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate update file
+        run: |
+          mkdir -p logs
+          echo "Last update: $(date -u)" >> logs/activity.log
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Add files
+        run: |
+          git add logs/activity.log
+
+      - name: Check changes
+        run: |
+          git diff --cached --quiet && echo "No changes" && exit 0
+
+      - name: Commit changes
+        run: |
+          git commit -m "🔄 smart update $(date -u)"
+
+      - name: Push changes
+        run: |
+          git push
