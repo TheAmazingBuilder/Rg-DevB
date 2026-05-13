@@ -1,6 +1,21 @@
 ## 🚀 Mes projets
 
 <!--START_SECTION:projects-->
+## 🚀 My Projects
+
+- 🔗 [Rg-DevB](https://github.com/Rg-DevB/Rg-DevB) : Pas de description
+- 🔗 [Hopify](https://github.com/Rg-DevB/Hopify) : Pas de description
+- 🔗 [Klyra-english_learning](https://github.com/Rg-DevB/Klyra-english_learning) : A personal English learning journal built with Next.js. 
+- 🔗 [LaraTube](https://github.com/Rg-DevB/LaraTube) : Open source project about sharing videos platform built on Laravel
+- 🔗 [Laravel-saas-dash](https://github.com/Rg-DevB/Laravel-saas-dash) : Laravel SAAS Starter kit
+- 🔗 [Laravel-knowledge](https://github.com/Rg-DevB/Laravel-knowledge) : The collaborative knowledge base for Laravel developers. Problems, solutions, search — 100% Laravel stack.
+- 🔗 [nexovia-digital-agency-platform](https://github.com/Rg-DevB/nexovia-digital-agency-platform) : Nexovia is a modern web platform designed to help small and medium-sized businesses accelerate their digital transformation through high-performance solutions: websites, automation, CRM systems, and intelligent workflows.
+- 🔗 [cms-laravel-api-porfolio](https://github.com/Rg-DevB/cms-laravel-api-porfolio) : Pas de description
+- 🔗 [Portfolio-NextJS-TailwindCSS](https://github.com/Rg-DevB/Portfolio-NextJS-TailwindCSS) : A modern frontend built with Next.js (App Router) and TypeScript, migrated from a classic React project to a more professional, scalable, and high‑performance architecture.
+- 🔗 [CMS-Portfolio-Backend-API-Admin-Dashboard](https://github.com/Rg-DevB/CMS-Portfolio-Backend-API-Admin-Dashboard) : Pas de description
+- 🔗 [Oryon-Laravel-Filament-Vuejs-Inertia](https://github.com/Rg-DevB/Oryon-Laravel-Filament-Vuejs-Inertia) : Pas de description
+- 🔗 [Portfolio-NextJS](https://github.com/Rg-DevB/Portfolio-NextJS) : Pas de description
+- 🔗 [-E-commerce-API-Laravel-Production-Ready-Backend](https://github.com/Rg-DevB/-E-commerce-API-Laravel-Production-Ready-Backend) : A production-ready E-commerce REST API built with Laravel, designed with clean architecture and real-world features used in modern online stores.
 <!--END_SECTION:projects-->
 
 <div align="center">
