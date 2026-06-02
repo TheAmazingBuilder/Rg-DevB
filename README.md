@@ -1,16 +1,16 @@
 <div align="center">
 
  <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;💻+Software+Developer+in+progress;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;🚀+AI+Engineer+in+progress;💻+Software+Developer;⚡+Building+scalable+applications;🧠+Clean+Code+%7C+Clean+Architecture;🌍+Turning+Ideas+into+Reality" />
 </h1> 
 
-### Hi 👋, I'm Rody Bints  | Software developper - Building things that matter
+### Hi 👋, I'm Rody Bints  | AI Engineer | Software Developer | - Building things that matter
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&height=70&lines=Rg-DevB+-+Crafting+Clean+%26+Modern+Code;Passionate+about+Laravel+%7C+Java+%7C+Python+%7C+Java+%7C;Tech+%7C++Code.+Build.+Innovate.+Vibes" /> 
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rody-g-bints)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rody-bints)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenoow07pro.btsg@gmail.com)
 
@@ -22,7 +22,7 @@
 
 ```yaml
 name: Rody Bints
-title: Software Developer
+title: AI Engineer | Software Developer |
 location: 📍 Sudbury, Canada, Ontario
 focus: Building scalable & clean software
 currently_learning: ["GraphQL", "TypeScript", "Laravel", "Rest API", "Java", "Angular", "Vue-Js", "Next-Js" and system design]
