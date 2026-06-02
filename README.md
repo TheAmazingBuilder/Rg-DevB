@@ -42,7 +42,7 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 | <h3 align="center"> Languages </h3> | <h3 align="center"> Frameworks & Tools </h3> | <h3 align="center"> Databases </h3> |
 | :---: | :---: | :---: |
 |       |
-| <img src="https://skillicons.dev/icons?i=css,html,js,php,java,python,cpp,ts" /> | <img src="https://skillicons.dev/icons?i=laravel,angular,git,github,postman,graphql" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
+| <img src="https://skillicons.dev/icons?i=css,html,js,php,java,python,cpp,ts" /> | <img src="https://skillicons.dev/icons?i=laravel,angular,git,github,postman,graphql,docker" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
 
 ---
 
