@@ -1,5 +1,4 @@
-      5 null
-      5 TypeScript
-      1 PHP
-      1 JavaScript
+      8 TypeScript
+      7 null
+      3 PHP
       1 Blade
