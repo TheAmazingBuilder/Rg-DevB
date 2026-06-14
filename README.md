@@ -22,8 +22,8 @@
 
 ```yaml
 name: Rody Bints
-title: AI Engineer | Software Developer |
-location: 📍 Sudbury, Canada, Ontario
+title: AI Engineer | Software Engineer |
+location: 📍 Shawinigan, Canada, Quebec
 focus: Building scalable & clean software
 currently_learning: ["GraphQL", "TypeScript", "Laravel", "Rest API", "Java", "Angular", "Vue-Js", "Next-Js" and system design]
 open_to: ["Collaborations", "Freelance", "New Opportunities",Open source projects and innovative web applications]
@@ -42,7 +42,7 @@ fun_fact: "I love turning complex problems into simple and elegant solutions ⚡
 | <h3 align="center"> Languages </h3> | <h3 align="center"> Frameworks & Tools </h3> | <h3 align="center"> Databases </h3> |
 | :---: | :---: | :---: |
 |       |
-| <img src="https://skillicons.dev/icons?i=css,html,js,php,java,python,cpp,ts" /> | <img src="https://skillicons.dev/icons?i=laravel,angular,git,github,postman,graphql,docker" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
+| <img src="https://skillicons.dev/icons?i=css,html,js,php,python,cpp" /> | <img src="https://skillicons.dev/icons?i=laravel,git,github,postman,graphql,docker" /> | <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> |
 
 ---
 
