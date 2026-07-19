@@ -1,5 +1,0 @@
-      9 TypeScript
-      3 null
-      3 PHP
-      1 Python
-      1 Blade
